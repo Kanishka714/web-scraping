@@ -1,4 +1,4 @@
-#!/Users/kanishkarathnayake/Desktop/101/part_1/venv/bin/python
+#!/Users/kanishkarathnayake/Desktop/101/venv/bin/python
 # -*- coding: utf-8 -*-
 import re
 import sys
