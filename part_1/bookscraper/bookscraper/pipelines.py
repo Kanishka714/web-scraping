@@ -159,7 +159,7 @@ class SaveToMySQLPipeline:
         self.conn.commit()
         return item
 
-    # Close the connection
+    # Close the connection ​එ
     def close_spider(self, spider):
         self.cur.close()
         self.conn.close()
